@@ -15,12 +15,6 @@
   </url>
   
   <url>
-    <loc>https://dsridhar.github.io/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dsridhar.github.io/authors/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -34,6 +28,12 @@
   
   <url>
     <loc>https://dsridhar.github.io/authors/dhanya-sridhar/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsridhar.github.io/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
