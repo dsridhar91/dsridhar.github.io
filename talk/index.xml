@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <link>https://dsridhar.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dsridhar.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Structured Probabilistic Models for Online Dialogue and Text</title>
+      <link>https://dsridhar.github.io/talk/stanford/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/stanford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Structured and Causal Probabilistic Models for Computational Science</title>
+      <link>https://dsridhar.github.io/talk/columbia/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/columbia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured Probabilistic Models for Computational Social Science</title>
+      <link>https://dsridhar.github.io/talk/msr/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/msr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective Models of Stance and Disagreement in Online Debates</title>
+      <link>https://dsridhar.github.io/talk/csc/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/csc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Soft Logic: A Scalable Open-Source Framework for Richly Structured Models</title>
+      <link>https://dsridhar.github.io/talk/scml/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/scml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Soft Logic</title>
+      <link>https://dsridhar.github.io/talk/tutorial/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Probabilistic Inference of Causal Structure</title>
+      <link>https://dsridhar.github.io/talk/causal-kdd/</link>
+      <pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/causal-kdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective Stance and Disagreement Classification in Online Debate Forums</title>
+      <link>https://dsridhar.github.io/talk/baylearn/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/baylearn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

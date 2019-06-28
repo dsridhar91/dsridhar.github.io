@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Academic</title>
+    <link>https://dsridhar.github.io/publication_types/0/</link>
+    <description>Recent content in 0 on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dsridhar.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating Causal Effects of Exercise from Mood Logging Data</title>
+      <link>https://dsridhar.github.io/publication/causal-mood-ws/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/causal-mood-ws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Structure Learning for Probabilistic Soft Logic</title>
+      <link>https://dsridhar.github.io/publication/starai-sl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/starai-sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Noisy Extractions to Discover Causal Knowledge</title>
+      <link>https://dsridhar.github.io/publication/akbc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/akbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Probabilistic Inference of Causal Structure.</title>
+      <link>https://dsridhar.github.io/publication/causal-kdd-ws/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/causal-kdd-ws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective Stance Classification of Posts in Online Debate Forums</title>
+      <link>https://dsridhar.github.io/publication/acl14-ws/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/acl14-ws/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

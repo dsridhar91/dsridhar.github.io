@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Academic</title>
+    <link>https://dsridhar.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dsridhar.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estimating Causal Effects of Tone in Online Debates</title>
+      <link>https://dsridhar.github.io/publication/debates-ijcai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/debates-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Structured Approach to Understanding Recovery and Relapse in AA</title>
+      <link>https://dsridhar.github.io/publication/aa-www/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/aa-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Probabilistic Causal Structure Discovery</title>
+      <link>https://dsridhar.github.io/publication/csd-ijcai/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/csd-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Models of Disagreement and Stance</title>
+      <link>https://dsridhar.github.io/publication/acl15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/acl15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Academic</title>
+    <link>https://dsridhar.github.io/publication/</link>
+    <description>Recent content in Publications on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dsridhar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Equal Opportunities and Affirmative Action via Counterfactual Predictions</title>
+      <link>https://dsridhar.github.io/publication/eo-aa-fair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/eo-aa-fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Causal Effects of Tone in Online Debates</title>
+      <link>https://dsridhar.github.io/publication/debates-ijcai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/debates-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Text Embeddings for Causal Inference</title>
+      <link>https://dsridhar.github.io/publication/causal-bert/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/causal-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Structured Approach to Understanding Recovery and Relapse in AA</title>
+      <link>https://dsridhar.github.io/publication/aa-www/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/aa-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Causal Effects of Exercise from Mood Logging Data</title>
+      <link>https://dsridhar.github.io/publication/causal-mood-ws/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/causal-mood-ws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Probabilistic Causal Structure Discovery</title>
+      <link>https://dsridhar.github.io/publication/csd-ijcai/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/csd-ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Structure Learning for Probabilistic Soft Logic</title>
+      <link>https://dsridhar.github.io/publication/starai-sl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/starai-sl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Noisy Extractions to Discover Causal Knowledge</title>
+      <link>https://dsridhar.github.io/publication/akbc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/akbc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Approach for Collective Similarity-based Drug-Drug Interaction Prediction</title>
+      <link>https://dsridhar.github.io/publication/bioinformatics16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/bioinformatics16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Probabilistic Inference of Causal Structure.</title>
+      <link>https://dsridhar.github.io/publication/causal-kdd-ws/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/causal-kdd-ws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Models of Disagreement and Stance</title>
+      <link>https://dsridhar.github.io/publication/acl15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/acl15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective Stance Classification of Posts in Online Debate Forums</title>
+      <link>https://dsridhar.github.io/publication/acl14-ws/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/acl14-ws/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
