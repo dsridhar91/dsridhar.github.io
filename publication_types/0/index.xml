@@ -6,10 +6,19 @@
     <description>Recent content in 0 on Dhanya Sridhar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dsridhar.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Equal Opportunities and Affirmative Action via Counterfactual Predictions</title>
+      <link>https://dsridhar.github.io/publication/eo-aa-fair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/eo-aa-fair/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating Causal Effects of Exercise from Mood Logging Data</title>

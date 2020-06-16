@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Dhanya Sridhar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dsridhar.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>David Blei</title>
       <link>https://dsridhar.github.io/authors/david-blei/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dsridhar.github.io/authors/david-blei/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Dhanya Sridhar</title>
       <link>https://dsridhar.github.io/authors/dhanya-sridhar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://dsridhar.github.io/authors/dhanya-sridhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Veitch</title>
+      <link>https://dsridhar.github.io/authors/victor-veitch/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/authors/victor-veitch/</guid>
       <description></description>
     </item>
     
@@ -35,15 +44,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dsridhar.github.io/authors/lise-getoor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Victor Veitch</title>
-      <link>https://dsridhar.github.io/authors/victor-veitch/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsridhar.github.io/authors/victor-veitch/</guid>
       <description></description>
     </item>
     
@@ -179,9 +179,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dsridhar.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a postdoctoral researcher at Columbia University working with David Blei. Broadly, I adapt probabilistic models, deep generative models, and embedding methods for causality. I apply causal inference to study political language and debates, social influence, and fairness of machine learning predictors.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m a postdoctoral researcher in the Data Science Institute at Columbia University, working with &lt;a href=&#34;http://www.cs.columbia.edu/~blei/&#34;&gt; David Blei. &lt;/a&gt; My work focuses on applied causality. Broadly, I adapt modern ML and NLP methods for causal inference, especially from text data. I focus on applications to social science and algorithmic fairness.&lt;/p&gt;
 
-&lt;p&gt;I received from PhD in computer science from University of California Santa Cruz and my PhD advisor is Lise Getoor. My thesis research extended structured prediction for understanding social media dialogue, learning causal structures like gene regulatory networks, and discovering model structure. As a graduate student, I interned at Microsoft with the Bing Ads group.&lt;/p&gt;
+&lt;p&gt;I received my PhD from University of California Santa Cruz, where I worked with &lt;a href=&#34;https://getoor.soe.ucsc.edu&#34;&gt; Lise Getoor. &lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
