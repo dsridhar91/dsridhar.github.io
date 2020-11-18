@@ -6,10 +6,37 @@
     <description>Recent content on Dhanya Sridhar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dsridhar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Causal Effects of Linguistic Properties</title>
+      <link>https://dsridhar.github.io/publication/causal-text/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/causal-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Digital Field Experiment Reveals Large Effects of Friend-to-Friend Texting on Voter Turnout</title>
+      <link>https://dsridhar.github.io/publication/outvote/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/outvote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valid Causal Inference with (Some) Invalid Instruments</title>
+      <link>https://dsridhar.github.io/publication/mode-iv/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/publication/mode-iv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adapting Text Embeddings for Causal Inference</title>
