@@ -32,13 +32,13 @@
   </url>
   
   <url>
-    <loc>https://dsridhar.github.io/</loc>
+    <loc>https://dsridhar.github.io/authors/dhanya-sridhar/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dsridhar.github.io/authors/dhanya-sridhar/</loc>
+    <loc>https://dsridhar.github.io/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -108,12 +108,6 @@
   </url>
   
   <url>
-    <loc>https://dsridhar.github.io/publication_types/1/</loc>
-    <lastmod>2020-06-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://dsridhar.github.io/authors/jason-hartford/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -128,6 +122,12 @@
   <url>
     <loc>https://dsridhar.github.io/publication/mode-iv/</loc>
     <lastmod>2020-06-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dsridhar.github.io/publication_types/1/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
