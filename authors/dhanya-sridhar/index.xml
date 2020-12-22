@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dhanya Sridhar</title>
+    <title>Dhanya Sridhar* on Dhanya Sridhar</title>
     <link>https://dsridhar.github.io/authors/dhanya-sridhar/</link>
-    <description>Recent content on Dhanya Sridhar</description>
+    <description>Recent content in Dhanya Sridhar* on Dhanya Sridhar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://dsridhar.github.io/authors/dhanya-sridhar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Answering Causal Questions from Text</title>
+      <link>https://dsridhar.github.io/talk/google-research/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsridhar.github.io/talk/google-research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal Effects of Linguistic Properties</title>

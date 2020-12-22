@@ -3,13 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dsridhar.github.io/publication_types/0/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://dsridhar.github.io/talk/google-research/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://dsridhar.github.io/authors/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsridhar.github.io/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsridhar.github.io/authors/dhanya-sridhar/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsridhar.github.io/talk/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dsridhar.github.io/publication_types/0/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -27,18 +49,6 @@
   
   <url>
     <loc>https://dsridhar.github.io/authors/dan-jurafsky/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dsridhar.github.io/authors/dhanya-sridhar/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dsridhar.github.io/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -143,11 +153,6 @@
   
   <url>
     <loc>https://dsridhar.github.io/talk/yahoo-research/</loc>
-    <lastmod>2019-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dsridhar.github.io/talk/</loc>
     <lastmod>2019-10-25T00:00:00+00:00</lastmod>
   </url>
   
